@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: c8ca7f6122f8faf41bb80ffa7e5be48a
+timeCreated: 1519403585
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: New Super Mario Font U
+  fontNames:
+  - New Super Mario Font U
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
